@@ -42,4 +42,17 @@ src="https://img.shields.io/github/followers/Makarajyothi-15?logo=github&style=f
 
 <div width="100%" align="center"><a href="https://github.com/Makarajyothi-15/Chat-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Makarajyothi-15&repo=Chat-app&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Makarajyothi-15&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Makarajyothi-15&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 *Thanks for visiting my profile! Let's build something awesome together.* 
