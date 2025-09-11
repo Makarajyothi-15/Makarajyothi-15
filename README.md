@@ -8,7 +8,7 @@ I'm a passionate MCA graduate currently finishing my degree and actively seeking
 
 * 🌍  I'm based in Chennai.
 * 🖥️  See my portfolio at [Jyothi](http://jyothi.netlify.com)
-* ✉️  You can contact me at [jothijothi31644@gmail.com](mailto:jothijothi31644@gmail.com)
+* ✉️  You can contact me at [makarajyothi2004@gmail.com](mailto:makarajyothi2004@gmail.com)
 * 🧠  I'm learning .,
 * 🤝  I'm open to collaborating on opportunities
 * ⚡  Compiling dreams into binaries since 2022.
