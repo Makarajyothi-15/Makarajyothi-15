@@ -7,9 +7,9 @@ Full Stack Web Developer
 I'm a passionate MCA graduate currently finishing my degree and actively seeking exciting job opportunities in the tech industry, specifically in web development. I thrive on solving complex problems and creating innovative solutions. Let's connect and explore the possibilities!
 
 * 🌍  I'm based in Chennai.
-* 🖥️  See my portfolio at [Jyothi](http://jyothi.netlify.com)
+* 🖥️  See my portfolio at [Jyothi](https://my-portfolio-alpha-liard-18.vercel.app/)
 * ✉️  You can contact me at [makarajyothi2004@gmail.com](mailto:makarajyothi2004@gmail.com)
-* 🧠  I'm learning .,
+* 🧠  I'm learning DSA Concepts.
 * 🤝  I'm open to collaborating on opportunities
 * ⚡  Compiling dreams into binaries since 2022.
 
